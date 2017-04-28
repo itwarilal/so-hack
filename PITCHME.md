@@ -1,11 +1,11 @@
 ---
 
-## Sonos QuestionExchange
+## Sonos <span style="color:#A91321">QuestionExchange</span>
 ##### Get real answers from real people with the right knowledge.
 
 ---
 
-## Why Question <span style="color:#A91321">Exchange</span>?
+## Why?
 
 - Hard to find right answer
 -- Mulitple confluence pages, outdated pages, etc
