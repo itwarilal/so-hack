@@ -9,6 +9,7 @@
 
 - Slack is team oriented, generic channels have too many people
 - Confluence is static and despite best intentions, becomes out of date rapidly.
+- Cannot post Sonos specific question to StackOverflow due to IP
 
 ---
 
