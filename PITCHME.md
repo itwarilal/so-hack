@@ -30,6 +30,7 @@
 
 ## How? (How did you build it and what challenges did you face?)
 
+- Used an open source tool as a base, see Discourse. (https://www.discourse.org/)
 - Getting integrations hooked up. (Slack, SSO)
 
 ---
