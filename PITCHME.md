@@ -1,6 +1,6 @@
 ---
 
-## Sonos <span style="color:#A91321">QuestionExchange</span>
+## ![Image-Absolute](http://qx.dev.ws.sonos.com/uploads/default/original/1X/a9c45f007dc2897136c6c748906ff9d0b338492a.png)
 ##### Get real answers from real people with the right knowledge.
 
 ---
