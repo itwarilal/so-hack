@@ -7,7 +7,7 @@
 
 ## What? (What problem are you solving?)
 
-- Slack is team oriented, generic channels have too many people
+- Slack is team oriented, generic channels have too many people.
 - Confluence is static and despite best intentions, becomes out of date rapidly.
 - Cannot post Sonos specific question to StackOverflow due to IP
 
@@ -15,31 +15,32 @@
 
 ## Why? (Why does it matter to Sonos?)
 
-- Difficult to find right person to get answer
-- Waste time & resources
+- Difficult to find the right person to get the answers you seek.
+- Waste time & resources.
 
 ---
 
 ## What? (What is the solution you’ve built?)
 
 - A StackOverflow-like solution that makes querying the companies' knowledge more efficient and interactive.
-- Find right expert to get answer
-- Easy search - see if your question is already solved
-- Find up-to date information on problem
+- Find right expert to get answer.
+- Easy search - see if your question is already solved.
+- Find up-to date information on problem.
 
 ---
 
 ## How? (How did you build it and what challenges did you face?)
 
-- Getting integrations hooked up. (Slack, SSO)
+- Used an open source tool as a base, see Discourse. (https://www.discourse.org/)
+- Getting integrations hooked up. (Slack, SSO).
 
 ---
 
 ### What? (What challenges remain, and what next steps are needed to implement your hack for real?)
 
-- Integrations (Slack, SSO)
 - Adoption and participation.
+- Integrations (Slack, SSO).
 
 ---
 
-The End :)
+The End :) Thanks!
