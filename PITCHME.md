@@ -5,7 +5,7 @@
 
 ---
 
-## Why QuestionExchange?
+## Why Question <span style="color:#A91321">Exchange</span>?
 
 - Find right expert to get answer
 - Easy search - see if your question is already solved
