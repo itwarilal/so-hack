@@ -9,7 +9,7 @@
 
 - Slack is team oriented, generic channels have too many people.
 - Confluence is static and despite best intentions, becomes out of date rapidly.
-- Cannot post Sonos specific question to StackOverflow due to IP
+- Cannot post Sonos specific questions to the internet due to intellectual property concerns.
 
 ---
 
@@ -23,16 +23,16 @@
 ## What is the solution you’ve built?
 
 - A StackOverflow-like solution that makes querying the companies' knowledge more efficient and interactive.
-- Find right expert to get answer.
-- Easy search - see if your question is already solved.
-- Find up-to date information on problem.
+- Find the right expert to get the answers you seek.
+- Easy search capability, see if your question has been asked/answered already.
+- Find up-to-date information on your problem.
 
 ---
 
 ## How did you build it and what challenges did you face?
 
-- Used an open source tool as a base, see Discourse. (https://www.discourse.org/)
-- Getting integrations hooked up. (Slack, SSO).
+- Started with an open source project as a foundation, see Discourse. (https://www.discourse.org/)
+- Faced challenges getting integrations hooked up. (Slack, SSO).
 
 ---
 
